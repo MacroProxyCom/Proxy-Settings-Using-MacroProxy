@@ -30,7 +30,9 @@ After successfully configuring and testing your proxy settings, you can start us
 MacroProxy offers several additional features to enhance your browsing experience, including:
 
 Bandwidth Monitoring: This feature allows you to keep track of your data usage, helping you avoid exceeding your data limits.
+
 Connection Logs: View detailed logs of your proxy connections, which can be useful for troubleshooting and analysis.
+
 24/7 Customer Support: Access round-the-clock support from the MacroProxy team if you encounter any issues or have questions.
 
 # Conclusion
